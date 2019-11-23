@@ -37,6 +37,7 @@
     "ncp": "^2.0.0",
     "near-assemblyscript": "^0.7.4",
     "nearlib": "^0.17.1",
+    "open": "^7.0.0",
     "rimraf": "^3.0.0",
     "update-notifier": "^3.0.1",
     "yargs": "^15.0.1"
